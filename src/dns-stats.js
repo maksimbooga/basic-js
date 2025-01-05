@@ -17,8 +17,7 @@ const { NotImplementedError } = require('../extensions/index.js');
  * {
  *   '.ru': 3,
  *   '.ru.yandex': 3,
- *   '.ru.yandex.code': 1,
- *   '.ru.yandex.music': 1,
+ к *   '.ru.yandex.music': 1,
  * }
  *
  */
